@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruave",
+        "uuid": 5062158,
+        "checksum": "ffmxd"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
